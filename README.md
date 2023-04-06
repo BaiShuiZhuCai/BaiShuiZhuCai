@@ -1,10 +1,10 @@
 ## Hi! Welcome to visit my page! :label:
 
-###I'm Shaopin Wang and you can call me Colin August, a beginner developer from  <a><img height="14" src="https://user-images.githubusercontent.com/89354237/230272493-0019f63f-ab8c-46ee-8fe2-e7bb70d86d8d.png"></a>  , Nanyang City.
+### I'm Shaopin Wang and you can call me Colin August, a beginner developer from  <a><img height="16" src="https://user-images.githubusercontent.com/89354237/230272493-0019f63f-ab8c-46ee-8fe2-e7bb70d86d8d.png"></a>  , Nanyang City.
 
 
 
-###I can code with:
+### I can code with:
 
 <a><img height="24" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
 <a><img height="24" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
@@ -15,7 +15,7 @@
 <a><img height="24" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
 <a><img height="24" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
 
-###I also use these OS:
+### I also use these OS:
 
 <a><img height="24" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 <a><img height="24" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
