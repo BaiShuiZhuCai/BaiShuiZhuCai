@@ -1,9 +1,13 @@
 ## Hi! Welcome to visit my page! :label:
 
-### I'm Shaopin Wang and you can call me Colin August, a beginner developer from  <a><img height="18" src="https://user-images.githubusercontent.com/89354237/230272493-0019f63f-ab8c-46ee-8fe2-e7bb70d86d8d.png"></a>  , Nanyang City.
+I'm Shaopin Wang and you can call me Colin August, a beginner developer from  <a><img height="18" src="https://user-images.githubusercontent.com/89354237/230272493-0019f63f-ab8c-46ee-8fe2-e7bb70d86d8d.png"></a>  , Nanyang City.
+
+
 
 
 I code with 🧑‍💻 :
+
+
 
 
 <a><img height="18" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"></a>
@@ -25,6 +29,9 @@ I code with 🧑‍💻 :
 <a><img height="18" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"></a>
 
 
+
+
+
 I also use these Tools ⚒️ :
 
 <a><img height="18" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"></a>
@@ -34,6 +41,10 @@ I also use these Tools ⚒️ :
 <a><img height="18" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important"></a>
 <a><img height="18" src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white"></a>
 <a><img height="18" src="https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white"></a>
+
+
+
+
 
 Contact me with:
 
