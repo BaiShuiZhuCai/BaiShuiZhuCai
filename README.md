@@ -17,7 +17,8 @@ I also use these Tools ⚒️ :
 <a><img height="18" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important"></a>
 <a><img height="18" src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white"></a>
 <a><img height="18" src="https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white"></a>
-
+<a><img height="18" src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"></a>
+<a><img height="18" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"></a>
 
 Contact me with 📧 :
 
