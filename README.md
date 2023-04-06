@@ -21,3 +21,10 @@
 <a><img height="24" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 <a><img height="24" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
 <a><img height="24" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></a>
+
+### Contact me with:
+
+<a><img height="24" src="https://img.shields.io/twitter/follow/:Colin_August?label=Colin_August"></a>
+
+
+<a><img height="24" src=""></a>
