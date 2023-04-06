@@ -13,9 +13,9 @@ I also use these Tools ⚒️ :
 <a><img height="18" src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"></a>
 <a><img height="18" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
 <a><img height="18" src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"></a>
+<a><img height="18" src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white"></a>
 <a><img height="18" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white"></a>
 <a><img height="18" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important"></a>
-<a><img height="18" src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white"></a>
 <a><img height="18" src="https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white"></a>
 <a><img height="18" src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"></a>
 <a><img height="18" src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"></a>
