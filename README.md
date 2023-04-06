@@ -34,8 +34,7 @@
 
 ### Contact me with:
 
-<a><img height="20" src="https://api.swo.moe/stats/bilibili/185677319"></a>
+<a><img height="20" src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FColin_2002_C"></a>
 
-
-<a><img height="24" src="https://space.bilibili.com/185677319?spm_id_from=333.1007.0.0"></a>
+<a><img height="24" src=""></a>
 
