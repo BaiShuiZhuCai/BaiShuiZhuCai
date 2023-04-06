@@ -19,7 +19,7 @@ I also use these Tools ⚒️ :
 <a><img height="18" src="https://img.shields.io/badge/tmux-1BB91F?style=flat&logo=tmux&logoColor=white"></a>
 
 
-Contact me with:
+Contact me with 📧 :
 
 <a><img height="20" src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FColin_2002_C"></a>
 <a><img heiget="18" src="https://img.shields.io/twitter/url?label=Shaopin%20Wang&logo=facebook&url=https%3A%2F%2Fwww.facebook.com%2Fcolin.august.54%2F"></a>
