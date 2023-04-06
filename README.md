@@ -1,6 +1,8 @@
 ## Hi! Welcome to visit my page! :label:
 
-I'm Shaopin Wang and you can call me Colin August, a beginner developer from :flag_china: , Nanyang City.
+I'm Shaopin Wang and you can call me Colin August, a beginner developer from  <a><img height="14" src="https://user-images.githubusercontent.com/89354237/230272493-0019f63f-ab8c-46ee-8fe2-e7bb70d86d8d.png"></a>  , Nanyang City.
+
+
 
 I can code with:
 
