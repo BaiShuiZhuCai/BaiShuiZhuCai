@@ -1,6 +1,6 @@
 ## Hi! Welcome to visit my Github page! :label:
 
-Hi there!👋  I'm Shaopin Wang and you can call me Colin August, a beginner developer from  <a><img height="18" src="https://user-images.githubusercontent.com/89354237/230272493-0019f63f-ab8c-46ee-8fe2-e7bb70d86d8d.png"></a>  , Nanyang City.
+Hi there!👋  I'm Shaopin Wang and you can call me Colin August, a developer from  <a><img height="18" src="https://user-images.githubusercontent.com/89354237/230272493-0019f63f-ab8c-46ee-8fe2-e7bb70d86d8d.png"></a>  , Nanyang City.
 
 
 I code with 🧑‍💻 :
